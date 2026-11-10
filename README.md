@@ -420,14 +420,16 @@ plt.show()
 The following outputs are obtained:
 
 1. Read and display an image.
-2. Display the grayscale and colour images.
-3. Crop, resize and flip the Eagle image.
-4. Annotate the Apollo 11 launch image with text and a rectangle.
-5. Adjust image brightness (darker and brighter images).
-6. Modify image contrast (lower and higher contrast).
-7. Split and merge B, G and R colour channels.
-8. Split and merge H, S and V colour channels.
-9. Generate an image using bitwise operations.
+   <img width="653" height="528" alt="image" src="https://github.com/user-attachments/assets/cccd5dc6-2f12-4649-a06e-79a46e330e01" />
+2. Adjust image brightness (darker and brighter images).
+   <img width="1313" height="310" alt="image" src="https://github.com/user-attachments/assets/b0433dcc-ec99-434c-a579-21562633e964" />
+
+4. Modify image contrast (lower and higher contrast).
+   <img width="1256" height="300" alt="image" src="https://github.com/user-attachments/assets/897258d6-227d-4aee-afa0-1ecb3223f0c3" />
+
+6. Generate an image using bitwise operations.
+   <img width="1087" height="375" alt="image" src="https://github.com/user-attachments/assets/6b28a26e-a704-40cc-85fd-69971c407944" />
+
 
 ---
 
@@ -437,25 +439,6 @@ Thus, the images were successfully read and displayed using OpenCV. Image bright
 
 ---
 
-## REQUIREMENTS
-
-Install the required libraries using:
-
-```bash
-pip install opencv-python numpy matplotlib
-```
-
-## INPUT IMAGES
-
-Place the following images in the same folder as your Python notebook:
-
-- `Eagle_in_Flight.jpg`
-- `Apollo-11-launch.jpg`
-- `Boy.jpg`
-
----
-
-**Experiment No: 01**
 
 **Title: Image Handling and Pixel Transformations Using OpenCV**
 
